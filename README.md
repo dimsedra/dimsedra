@@ -1,28 +1,52 @@
-# Dimas Edra Ar Rafi
+<h1 align="center">Hi, I'm Edra</h1>
 
-<div align="center">
-  <p align="center">
-    <strong>Active Agentic Automation & Local-First Developer</strong><br />
-    Informatics Engineering Student at UIN Syarif Hidayatullah Jakarta (GPA 3.71)
-  </p>
+<h3 align="center">Software Engineer & Building with AI</h3>
 
-  <p align="center">
-    <a href="https://terminal-psi-silk.vercel.app/" target="_blank">Portofolio Site</a> • 
-    <a href="https://www.linkedin.com/in/dimasedra/" target="_blank">LinkedIn</a> • 
-    <a href="mailto:dimasedraarrafi@gmail.com">Contact Email</a>
-  </p>
-</div>
+<p align="center">
+  Informatics Engineering Student at UIN Syarif Hidayatullah Jakarta (GPA 3.71)
+</p>
+
+<p align="center">
+  <a href="https://terminal-psi-silk.vercel.app/" target="_blank">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/dimasedra/" target="_blank">LinkedIn</a> •
+  <a href="mailto:dimasedraarrafi@gmail.com">Email</a>
+</p>
 
 ---
 
-## Tech Stack Experience
-- **Programming Langugage**: TypeScript, Python, JavaScript, HTML, CSS.
-- **Framework**: Next.js, React, FastAPI, PyTorch
-- **AI Agent Orchestration**: Mastra SDK, Vercel AI SDK
-- **BaaS (Backend-as-a-Service)**: PocketBase (SQlite), Convex
+## What I'm Building
+
+- **[ExifSense](https://github.com/dimsedra/ExifSense)** — EXIF image metadata, made easy for everyone. <a href="https://exif-sense.vercel.app" target="_blank">Live demo</a><br>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+- **[squat-counter](https://github.com/dimsedra/squat-counter)** — Real-time squat repetition counter powered by MediaPipe PoseLandmarker.<br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+- **[Gemstone](https://github.com/dimsedra/Gemstone)** — AI-powered gemstone identification dashboard using PyTorch (ResNet50) transfer learning and a FastAPI backend.<br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-24292F?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-24292F?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-24292F?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/HTML5-24292F?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS-24292F?style=for-the-badge&logo=css&logoColor=663399" alt="CSS">
+  <br>
+  <img src="https://img.shields.io/badge/Next.js-24292F?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-24292F?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/FastAPI-24292F?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI">
+  <img src="https://img.shields.io/badge/PyTorch-24292F?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-24292F?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK">
+  <br>
+  <img src="https://img.shields.io/badge/Mastra%20SDK-24292F?style=for-the-badge" alt="Mastra SDK">
+  <img src="https://img.shields.io/badge/PocketBase-24292F?style=for-the-badge&logo=pocketbase&logoColor=white" alt="PocketBase">
+  <img src="https://img.shields.io/badge/Convex-24292F?style=for-the-badge&logo=convex&logoColor=white" alt="Convex">
+</p>
 
 ---
 
 <p align="center">
-  Developed with 🤍 by <a href="https://github.com/dimsedra">Dimas Edra</a>.
+  Built by <a href="https://github.com/dimsedra" target="_blank">Dimas Edra</a>.
 </p>
