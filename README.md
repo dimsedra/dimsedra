@@ -16,6 +16,9 @@
 
 ## What I'm Building
 
+**[Dialogue](https://github.com/dimsedra/Dialogue)** — Local-first AI assistant built on SQLite.<br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+
 **[ExifSense](https://github.com/dimsedra/ExifSense)** — EXIF image metadata, made easy for everyone. [Live demo](https://exif-sense.vercel.app)<br>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
 
