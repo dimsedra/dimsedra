@@ -44,6 +44,8 @@
   <img src="https://img.shields.io/badge/FastAPI-24292F?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI">
   <img src="https://img.shields.io/badge/PyTorch-24292F?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch">
   <img src="https://img.shields.io/badge/Docker-24292F?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
+  <img src="https://img.shields.io/badge/Tauri-24292F?style=for-the-badge&logo=tauri&logoColor=24C8DB" alt="Tauri">
+  <img src="https://img.shields.io/badge/Electron-24292F?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="Electron">
   <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-24292F?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK">
   <br>
   <img src="https://img.shields.io/badge/Mastra%20SDK-24292F?style=for-the-badge" alt="Mastra SDK">
