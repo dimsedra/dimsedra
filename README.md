@@ -38,10 +38,12 @@
   <img src="https://img.shields.io/badge/React-24292F?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/FastAPI-24292F?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI">
   <img src="https://img.shields.io/badge/PyTorch-24292F?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Docker-24292F?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
   <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-24292F?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK">
   <br>
   <img src="https://img.shields.io/badge/Mastra%20SDK-24292F?style=for-the-badge" alt="Mastra SDK">
   <img src="https://img.shields.io/badge/PocketBase-24292F?style=for-the-badge&logo=pocketbase&logoColor=white" alt="PocketBase">
+  <img src="https://img.shields.io/badge/Supabase-24292F?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase">
   <img src="https://img.shields.io/badge/Convex-24292F?style=for-the-badge&logo=convex&logoColor=white" alt="Convex">
 </p>
 
