@@ -33,11 +33,13 @@
   <img src="https://img.shields.io/badge/TypeScript-24292F?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
   <img src="https://img.shields.io/badge/JavaScript-24292F?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/Python-24292F?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/PHP-24292F?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP">
   <img src="https://img.shields.io/badge/HTML5-24292F?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS-24292F?style=for-the-badge&logo=css&logoColor=663399" alt="CSS">
   <br>
   <img src="https://img.shields.io/badge/Next.js-24292F?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/React-24292F?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Laravel-24292F?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel">
   <img src="https://img.shields.io/badge/FastAPI-24292F?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI">
   <img src="https://img.shields.io/badge/PyTorch-24292F?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch">
   <img src="https://img.shields.io/badge/Docker-24292F?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
@@ -47,6 +49,7 @@
   <img src="https://img.shields.io/badge/PocketBase-24292F?style=for-the-badge&logo=pocketbase&logoColor=white" alt="PocketBase">
   <img src="https://img.shields.io/badge/Supabase-24292F?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase">
   <img src="https://img.shields.io/badge/Convex-24292F?style=for-the-badge&logo=convex&logoColor=white" alt="Convex">
+  <img src="https://img.shields.io/badge/MariaDB-24292F?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
 </p>
 
 ---
