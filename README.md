@@ -16,7 +16,7 @@
 
 ## What I'm Building
 
-**[Dialogue](https://github.com/dimsedra/Dialogue)** — Local-first AI assistant built on SQLite.<br>
+**[Dialogue](https://github.com/dimsedra/Dialogue)** — A local-first desktop assistant for your messy personal life.<br>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
 
 **[ExifSense](https://github.com/dimsedra/ExifSense)** — EXIF image metadata, made easy for everyone. [Live demo](https://exif-sense.vercel.app)<br>
@@ -51,6 +51,7 @@
   <img src="https://img.shields.io/badge/Supabase-24292F?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase">
   <img src="https://img.shields.io/badge/Convex-24292F?style=for-the-badge&logo=convex&logoColor=white" alt="Convex">
   <img src="https://img.shields.io/badge/MariaDB-24292F?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
+  <img src="https://img.shields.io/badge/SQLite-24292F?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
 </p>
 
 ---
