@@ -16,12 +16,14 @@
 
 ## What I'm Building
 
-- **[ExifSense](https://github.com/dimsedra/ExifSense)** — EXIF image metadata, made easy for everyone. <a href="https://exif-sense.vercel.app" target="_blank">Live demo</a><br>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-- **[squat-counter](https://github.com/dimsedra/squat-counter)** — Real-time squat repetition counter powered by MediaPipe PoseLandmarker.<br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-- **[Gemstone](https://github.com/dimsedra/Gemstone)** — AI-powered gemstone identification dashboard using PyTorch (ResNet50) transfer learning and a FastAPI backend.<br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+**[ExifSense](https://github.com/dimsedra/ExifSense)** — EXIF image metadata, made easy for everyone. [Live demo](https://exif-sense.vercel.app)<br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+
+**[squat-counter](https://github.com/dimsedra/squat-counter)** — Real-time squat repetition counter powered by MediaPipe PoseLandmarker.<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+
+**[Gemstone](https://github.com/dimsedra/Gemstone)** — AI-powered gemstone identification dashboard using PyTorch (ResNet50) transfer learning and a FastAPI backend.<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 
 ---
 
