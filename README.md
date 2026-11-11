@@ -47,8 +47,8 @@
   <img src="https://img.shields.io/badge/Tauri-24292F?style=for-the-badge&logo=tauri&logoColor=24C8DB" alt="Tauri">
   <img src="https://img.shields.io/badge/Electron-24292F?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="Electron">
   <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-24292F?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK">
-  <br>
   <img src="https://img.shields.io/badge/Mastra%20SDK-24292F?style=for-the-badge" alt="Mastra SDK">
+  <br>
   <img src="https://img.shields.io/badge/PocketBase-24292F?style=for-the-badge&logo=pocketbase&logoColor=white" alt="PocketBase">
   <img src="https://img.shields.io/badge/Supabase-24292F?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase">
   <img src="https://img.shields.io/badge/Convex-24292F?style=for-the-badge&logo=convex&logoColor=white" alt="Convex">
